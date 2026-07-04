@@ -55,7 +55,7 @@
 <a href="https://t.me/cdw_011bot?start=88" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
 
 * 查档王社工库账号：<a href="https://t.me/cdw_011bot?start=88" target="_blank">查档王免费社工库</a>
-* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
+* 使用方法: <a href="https://www.mfsgk.com/257.html" target="_blank" >查档王免费社工库如何使用?</a>。
 
 ## 六扇门查档社工库⭐⭐⭐⭐⭐
 
