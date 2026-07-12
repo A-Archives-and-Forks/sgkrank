@@ -45,7 +45,7 @@
 <a href="https://t.me/tianjigebot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 * 社工库账号：<a href="https://t.me/tianjigebot?start=88" target="_blank">直达地址</a>
-* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
+* 详见: <a href="https://www.mfsgk.com/273.html" target="_blank" >天机阁社工库使用教程</a>。
 
 
 ## 查档王免费社工库⭐⭐⭐⭐⭐
