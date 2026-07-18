@@ -268,10 +268,10 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 ## 屁屁侦探社工库机器人⭐⭐⭐
 
-挺佛系的一个社工库，贡献者推荐，但有网友说数据量比较少，看这个社工库频道春节还暂停休息一段时间，一个字，绝～，但是可以签到获取积分，白嫖一下，没有查到东西也不吃亏～
+屁屁社工库是非常佛系的一个社工库，贡献者推荐，但有网友说数据量比较少，看这个社工库频道春节还暂停休息一段时间，一个字，绝～，但是可以签到获取积分，白嫖一下，没有查到东西也不吃亏～
 
-* 账号：<a href="https://www.shegongku.top/212.html" target="_blank">屁屁侦探社工库机器人</a>；
-* 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+* 账号：<a href="https://t.me/tysgk03bot?start=88" target="_blank">屁屁侦探社工库机器人</a>；
+* 教程：<a href="https://www.mfsgk.com/1.html" target="_blank" >屁屁社工库如何使用</a>。
 
 
 ## 鸟哥短信轰炸机器人⭐⭐
