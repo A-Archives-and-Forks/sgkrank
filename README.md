@@ -340,7 +340,7 @@ Space社工库拥有最新人员信息数据库,支持身份户籍查询、快�
 
 2026全球免费社工库,最强免费社工人肉机器人，永久免费使用，全网数据最新最全（来自社工库自述），使用时需要发送特定格式的指令.
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0" style="width:380px;"></a>
+<a href="https://telegram.me/qingbaobu?start=88" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0" style="width:380px;"></a>
 
 
 * 社工库账号：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库</a>
