@@ -31,9 +31,9 @@
 
 效果详情见该社工库群组查询结果展示图:
 
-<a href="https://telegram.me/tysgk03bot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://telegram.me/tianyanSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 社工库账号：<a href="https://telegram.me/tysgk03bot?start=88" target="_blank">天眼社工库</a>
+* 社工库账号：<a href="https://telegram.me/tianyanSGKbot?start=88" target="_blank">天眼社工库</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 ## 天机阁社工库⭐⭐⭐⭐⭐
@@ -231,7 +231,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 275社工库是一个专业的社工库猎魔工具,功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
-* 账号：<a href="https://t.me/tysgk03bot?start=88" target="_blank">275社工库</a>；
+* 账号：<a href="https://t.me/tianyanSGKbot?start=88" target="_blank">275社工库</a>；
 * 教程：<a href="https://www.mfsgk.com/67.html" target="_blank">275社工库开盒使用说明</a>。
 
 
@@ -270,7 +270,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 屁屁社工库是非常佛系的一个社工库，贡献者推荐，但有网友说数据量比较少，看这个社工库频道春节还暂停休息一段时间，一个字，绝～，但是可以签到获取积分，白嫖一下，没有查到东西也不吃亏～
 
-* 账号：<a href="https://t.me/tysgk03bot?start=88" target="_blank">屁屁侦探社工库机器人</a>；
+* 账号：<a href="https://t.me/tianyanSGKbot?start=88" target="_blank">屁屁侦探社工库机器人</a>；
 * 教程：<a href="https://www.mfsgk.com/1.html" target="_blank" >屁屁社工库如何使用</a>。
 
 
