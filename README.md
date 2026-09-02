@@ -42,9 +42,9 @@
 
 效果详情见该社工库群组查询结果展示图:
 
-<a href="https://telegram.me/tianjigebot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 社工库账号：<a href="https://telegram.me/tianjigebot?start=88" target="_blank">直达地址</a>
+* 社工库账号：<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank">直达地址</a>
 * 详见: <a href="https://www.mfsgk.com/273.html" target="_blank" >天机阁社工库使用教程</a>。
 
 
@@ -97,7 +97,7 @@ AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功�
 
 <a href="https://www.mfsgk.com/249.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
-* 账号信息：<a href="https://telegram.me/tianjigebot?start=88" target="_blank">智网综合社工库机器人</a>；
+* 账号信息：<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank">智网综合社工库机器人</a>；
 * 教程见: <a href="https://www.mfsgk.com/249.html" target="_blank" >视频教程</a>。
 
 ## 喜力社工库⭐⭐⭐⭐
