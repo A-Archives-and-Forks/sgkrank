@@ -7,7 +7,7 @@
 
 暗精灵社工库是一个全网最新社工库查询平台,社工库通常包含各类身份信息,此社工库支持简单查询、人工查档、猎魔、人肉搜索的综合社工库查询工具。此社工库社工库收录全网最全快递及订单数据（来自淘宝、京东等购物网站的4541420022条泄露数据）。可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
-* 暗精灵社工库账号: <a href="https://telegram.me/AJL05_bot?start=7503613403" target="_blank">@AJL05_bot</a>
+* 暗精灵社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">@AJL05_bot</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 使用如下图：
@@ -18,12 +18,12 @@
 
 免费情报局社工库是一个在线查询工具,免费手机号社工库,全网最牛5年老牌社工库，库里身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码，手机串号，快手uid，推特uid，facebook uid，身份证机主全网最多!2亿车牌独家数据!全家户籍首屈一指!非常强悍。
 
-* 情报局社工库账号：<a href="https://telegram.me/qingbaobu?start=88" target="_blank">@qingbaobu</a>
+* 情报局社工库账号：<a href="https://t.me/qingbaobu?start=88" target="_blank">@qingbaobu</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 效果详情见群组内其他人的查询结果展示图。
 
-<a href="https://telegram.me/qingbaobu?start=88" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://t.me/qingbaobu?start=88" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 ## 天眼社工库⭐⭐⭐⭐⭐
 
@@ -31,9 +31,9 @@
 
 效果详情见该社工库群组查询结果展示图:
 
-<a href="https://telegram.me/tianyanSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://t.me/tianyanSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 社工库账号：<a href="https://telegram.me/tianyanSGKbot?start=88" target="_blank">天眼社工库</a>
+* 社工库账号：<a href="https://t.me/tianyanSGKbot?start=88" target="_blank">天眼社工库</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 ## 天机阁社工库⭐⭐⭐⭐⭐
@@ -42,9 +42,9 @@
 
 效果详情见该社工库群组查询结果展示图:
 
-<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://t.me/tianjigeSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 社工库账号：<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank">直达地址</a>
+* 社工库账号：<a href="https://t.me/tianjigeSGKbot?start=88" target="_blank">直达地址</a>
 * 详见: <a href="https://www.mfsgk.com/273.html" target="_blank" >天机阁社工库使用教程</a>。
 
 
@@ -52,16 +52,16 @@
 
 免费查档王社工库是一个新上强大社工库查询工具，搭载身份证手机库全网最全数十亿，全网独家全国案情带身份证带案件详情，全网独家全家户籍数亿，全网独家车主库4亿，总数据量500亿!!!
 
-<a href="https://telegram.me/cdw_011bot?start=88" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
+<a href="https://t.me/cdw_011bot?start=88" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
 
-* 查档王社工库账号：<a href="https://telegram.me/cdw_011bot?start=88" target="_blank">查档王免费社工库</a>
+* 查档王社工库账号：<a href="https://t.me/cdw_011bot?start=88" target="_blank">查档王免费社工库</a>
 * 使用方法: <a href="https://www.mfsgk.com/257.html" target="_blank" >查档王免费社工库如何使用?</a>。
 
 ## 六扇门查档社工库⭐⭐⭐⭐⭐
 
 六扇门查档社工库是个最新免费社工库,老字号六扇门有30W+活跃用户,老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。有一看就会,一查就有的免费在线社工库查询工具，隐私数据泄漏验证查询必备。
 
-* 账号：<a href="https://telegram.me/LSMCDLXBOT?start=1" target="_blank">六扇门社工库账号</a>
+* 账号：<a href="https://t.me/LSMCDLXBOT?start=1" target="_blank">六扇门社工库账号</a>
 * 教程见: <a href="https://www.shegongku.top/510.html" target="_blank" >六扇门社工库如何使用</a>。
 
 <a href="https://www.shegongku.top/510.html" target="_blank"><img src="https://i.urusai.cc/P92ez.jpeg" alt="老牌Telegram开盒社工库六扇门" border="0" style="width:380px;"></a>
@@ -70,7 +70,7 @@
 
 AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功能非常齐全和超高的准确率，简单易上手现分享给大家。
 
-* 账号：<a href="https://telegram.me/aisgk111111bot?start=90" target="_blank">AI社工库</a>
+* 账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">AI社工库</a>
 * 开始使用：<a href="https://www.mfsgk.com/22.html" target="_blank">AISGK社工库如何使用</a>。
 
 <a href="https://www.shegongku.top/43.html" target="_blank"><img src="https://i.urusai.cc/azFgI.png" alt="奥创社工库如何使用" border="0" style="width:380px;"></a>
@@ -87,7 +87,7 @@ AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功�
 
 永和社工库提供了丰富的用户信息查询功能,可以免费查询QQ信息/身份证/微信号/车牌号/手机机主信息等内容,动动手点下签到即可开始免费查询.
 
-* 账号：<a href="https://telegram.me/YHSGK007BOT?start=8F3116AE" target="_blank">@永和社工库</a>
+* 账号：<a href="https://t.me/YHSGK007BOT?start=8F3116AE" target="_blank">@永和社工库</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
@@ -97,7 +97,7 @@ AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功�
 
 <a href="https://www.mfsgk.com/249.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
-* 账号信息：<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank">智网综合社工库机器人</a>；
+* 账号信息：<a href="https://t.me/tianjigeSGKbot?start=88" target="_blank">智网综合社工库机器人</a>；
 * 教程见: <a href="https://www.mfsgk.com/249.html" target="_blank" >视频教程</a>。
 
 ## 喜力社工库⭐⭐⭐⭐
@@ -309,7 +309,7 @@ Space社工库拥有最新人员信息数据库,支持身份户籍查询、快�
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/SGK_MG.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-* 账号：<a href="https://telegram.me/gnoranceX2025bot" target="_blank">@gnoranceX2025bot</a>
+* 账号：<a href="https://t.me/gnoranceX2025bot" target="_blank">@gnoranceX2025bot</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 ## 差佬查免费社工库⭐⭐
@@ -340,7 +340,7 @@ Space社工库拥有最新人员信息数据库,支持身份户籍查询、快�
 
 2026全球免费社工库,最强免费社工人肉机器人，永久免费使用，全网数据最新最全（来自社工库自述），使用时需要发送特定格式的指令.
 
-<a href="https://telegram.me/qingbaobu?start=88" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0" style="width:380px;"></a>
+<a href="https://t.me/qingbaobu?start=88" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0" style="width:380px;"></a>
 
 
 * 社工库账号：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库</a>
